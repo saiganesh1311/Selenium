@@ -7,6 +7,7 @@ public class GITpractise {
 	public void sample()
 	{
 		System.out.println("GIT Practise");
+		System.out.println("hello");
 	}
 
 }
