@@ -11,6 +11,9 @@ public class GITpractise {
 		System.out.println("hi");
 		System.out.println("bye");
 		System.out.println("selenium");
+		System.out.println("hello there");
+		System.out.println("heii");
+		System.out.println("hiiii");
 	}
 
 }
