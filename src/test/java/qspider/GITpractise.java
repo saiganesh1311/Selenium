@@ -14,6 +14,7 @@ public class GITpractise {
 		System.out.println("hello there");
 		System.out.println("heii");
 		System.out.println("hiiii");
+		System.out.println("sample branch");
 	}
 
 }
