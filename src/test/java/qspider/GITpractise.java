@@ -15,6 +15,7 @@ public class GITpractise {
 		System.out.println("heii");
 		System.out.println("hiiii");
 		System.out.println("sample branch");
+		System.out.println("git conflict");
 	}
 
 }
